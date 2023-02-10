@@ -1,8 +1,8 @@
 const fs = require('fs');
 const AWS = require('aws-sdk');
 
-const accessKeyId = 'ZVGKYFD7SX4HX02KD84X';
-const secretAccessKey = 's0ABazD7PABlyU9sBVaQltay87zdnG1Q3gieiCwP';
+const accessKeyId = 'null';
+const secretAccessKey = 'null';
 const region = 'ca-central-1';
 
 // Read credentials.json file
